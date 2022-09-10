@@ -1,2 +1,4 @@
 # mongoServer
-Ejemplo para comenzar con mongoDB
+Pasos para la instalacion y ejecucion del servidor
+1)npm install
+2)npm run dev
